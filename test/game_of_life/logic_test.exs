@@ -1,4 +1,4 @@
-defmodule GameOfLifeTest do
+defmodule GameOfLife.LogicTest do
   use ExUnit.Case
   doctest GameOfLife
 
